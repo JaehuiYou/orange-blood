@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 521.74 521.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient-2);
+        opacity: .63;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        mix-blend-mode: screen;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient-5);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient);
+        opacity: .15;
+      }
+
+      .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        fill: #f7dbcb;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="260.87" cy="260.87" fx="260.87" fy="260.87" r="260.87" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1b0000"/>
+      <stop offset=".73" stop-color="#90462b"/>
+      <stop offset="1" stop-color="#1b0000"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="260.87" cy="260.87" fx="260.87" fy="260.87" r="165.03" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#fff"/>
+      <stop offset=".21" stop-color="#e3d4d4"/>
+      <stop offset=".29" stop-color="#bf9e9e"/>
+      <stop offset=".36" stop-color="#a57776"/>
+      <stop offset=".42" stop-color="#955e5d"/>
+      <stop offset=".45" stop-color="#905655"/>
+      <stop offset=".57" stop-color="#633534"/>
+      <stop offset=".69" stop-color="#3c1818"/>
+      <stop offset=".79" stop-color="#230606"/>
+      <stop offset=".85" stop-color="#1b0000"/>
+      <stop offset=".86" stop-color="#1f0201"/>
+      <stop offset=".87" stop-color="#2b0805"/>
+      <stop offset=".87" stop-color="#40140b"/>
+      <stop offset=".88" stop-color="#5d2314"/>
+      <stop offset=".89" stop-color="#823720"/>
+      <stop offset=".9" stop-color="#b0502e"/>
+      <stop offset=".9" stop-color="#c45b35"/>
+      <stop offset=".9" stop-color="#c15934"/>
+      <stop offset=".91" stop-color="#954126"/>
+      <stop offset=".92" stop-color="#6f2d1a"/>
+      <stop offset=".94" stop-color="#501d10"/>
+      <stop offset=".95" stop-color="#391009"/>
+      <stop offset=".97" stop-color="#280704"/>
+      <stop offset=".98" stop-color="#1e0101"/>
+      <stop offset="1" stop-color="#1b0000"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="260.87" cy="260.87" fx="260.87" fy="260.87" r="94.3" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#fff"/>
+      <stop offset=".16" stop-color="#f5f5f5"/>
+      <stop offset=".19" stop-color="#c7c7c7"/>
+      <stop offset=".23" stop-color="#9c9c9c"/>
+      <stop offset=".27" stop-color="#777"/>
+      <stop offset=".32" stop-color="#565656"/>
+      <stop offset=".37" stop-color="#3b3b3b"/>
+      <stop offset=".42" stop-color="#252525"/>
+      <stop offset=".49" stop-color="#141414"/>
+      <stop offset=".57" stop-color="#080808"/>
+      <stop offset=".68" stop-color="#010101"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" r="161.52" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-5" cx="260.46" cy="261.52" fx="260.46" fy="261.52" r="145.34" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#fff"/>
+      <stop offset=".47" stop-color="#fdfdfd"/>
+      <stop offset=".58" stop-color="#f6f6f6"/>
+      <stop offset=".66" stop-color="#eaeaea"/>
+      <stop offset=".73" stop-color="#d9d9d9"/>
+      <stop offset=".78" stop-color="#c3c3c3"/>
+      <stop offset=".83" stop-color="#a8a8a8"/>
+      <stop offset=".88" stop-color="#878787"/>
+      <stop offset=".92" stop-color="#626262"/>
+      <stop offset=".96" stop-color="#373737"/>
+      <stop offset=".99" stop-color="#090909"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+  </defs>
+  <g class="cls-7">
+    <g id="_레이어_2" data-name="레이어 2">
+      <g id="_레이어_1-2" data-name="레이어 1">
+        <g>
+          <circle class="cls-6" cx="261.36" cy="260.99" r="146"/>
+          <g>
+            <circle class="cls-5" cx="260.87" cy="260.87" r="260.87"/>
+            <circle class="cls-1" cx="260.87" cy="260.87" r="165.03"/>
+            <circle class="cls-3" cx="260.87" cy="260.87" r="94.3"/>
+          </g>
+          <g>
+            <circle class="cls-2" cx="260.87" cy="260.87" r="161.52"/>
+            <path class="cls-4" d="m116.18,260.87c0,60.27,50.78,147.04,144.69,147.04,99.73,0,143.86-86.77,143.86-147.04s-41.09-145.75-143.86-145.75c-102.89,0-144.69,85.47-144.69,145.75Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
